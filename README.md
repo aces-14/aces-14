@@ -53,6 +53,4 @@ End-to-end RAG system over the Philippine Labor Code — document ingestion, vec
 ---
 
 
----
-
 <sub>Open to collaboration on AI engineering, ML, and Python projects. If you're building something interesting, reach out.</sub>
